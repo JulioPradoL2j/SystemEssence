@@ -1,0 +1,5 @@
+FrostInt - 2.1
+init(D:\App Server\CLIENT_LINEAGE2_RU_EU_542\system\frost\gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(D:\App Server\CLIENT_LINEAGE2_RU_EU_542\system\frost\gameShieldDll.dll) failed, err 126
+finish() 
